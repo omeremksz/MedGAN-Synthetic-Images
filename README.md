@@ -6,6 +6,6 @@ This repository contains the resources for the project "Overcoming Medical Data 
 
 Content
 
-Research Paper: Detailed findings and methodology.
-Model (.ipynb file): The implementation of the GAN model used to generate synthetic images.
-Accepted Letter: The official acceptance letter from ICRMIA 2024.
+* Research Paper: Detailed findings and methodology.
+* Model (.ipynb file): The implementation of the GAN model used to generate synthetic images.
+* Accepted Letter: The official acceptance letter from ICRMIA 2024.
