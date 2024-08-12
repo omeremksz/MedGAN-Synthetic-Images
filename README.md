@@ -9,3 +9,4 @@ Content
 * Research Paper: Detailed findings and methodology.
 * Model (.ipynb file): The implementation of the GAN model used to generate synthetic images.
 * Accepted Letter: The official acceptance letter from ICRMIA 2024.
+* Presentation Certificate: The certificate for presenting the project at ICRMIA 2024
